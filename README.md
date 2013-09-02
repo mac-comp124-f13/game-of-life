@@ -18,7 +18,7 @@ The Game of Life is a mathematical “zero-player” game devised by John Conway
 - If a dead cell has exactly 3 living neighbors, it will come to life (it is born).
 - Otherwise, the cell’s value will not be changed.
 
-For more information on Life, the [Wikipedia article on the topic](http://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) is quite informative, as is Martin Gardner's original article.
+For more information on Life, the [Wikipedia article on the topic](http://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) is quite informative, as is [Martin Gardner's original article](https://moodle.macalester.edu/mod/resource/view.php?id=12745).
 
 
 Overview
